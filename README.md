@@ -8,6 +8,8 @@ The modern web is becoming a maze of "Member-only" tags and monthly subscription
 
 The Tech Giants was born from a simple, defiant belief: High-quality technical clarity should be a right, not a luxury. This platform is a community-driven response to the gated nature of tech education, providing a 100% free, high-performance library of technical deep-dives that bridge the gap between software and hardware.
 
+Live Link: https://the-tech-giants-private.vercel.app
+
 🛠️ Tech Stack
 
 Frontend: React 18, TypeScript, Tailwind CSS, Framer Motion
